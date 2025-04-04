@@ -1,0 +1,1 @@
+data_file.dump(new_data, data_file, indent= 4)
